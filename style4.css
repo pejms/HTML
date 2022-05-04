@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: lightgreen;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+ol {
+    background-color: lightpink;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 10px;
+    color: white;
+}
+
+p {
+    background-color: lightsteelblue;
+    padding: 10px;
+    color: white;
+    border-radius: 10px;
+}
+
