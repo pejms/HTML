@@ -1,0 +1,19 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: lightblue;
+padding: 10px;
+border-radius: 15px;
+}
+a {
+    text-decoration: none;
+}
+
+h1 {
+    background-color: coral;
+    padding: 10px;
+    border-radius: 15px;
+    color: crimson;
+}
